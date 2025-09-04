@@ -198,7 +198,7 @@ ylabel('Labor, l');
 title('Policy Function: Labor');
 grid on;
 
-% Plot the consumption policy function (if desired)
+% Plot the consumption policy function
 subplot(3,1,3);
 plot(k_values, c_policy, 'm-', 'LineWidth',2);
 xlabel('Current Capital, k');
