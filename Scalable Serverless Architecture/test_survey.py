@@ -1,0 +1,11 @@
+from send_survey import send_survey
+status_code1 = send_survey("test1.json", "https://sqs.us-east-1.amazonaws.com/471112944418/survey-queue")
+print(f"Survey sent with status code: {status_code1}")
+status_code2 = send_survey("test2.json", "https://sqs.us-east-1.amazonaws.com/471112944418/survey-queue")
+print(f"Survey sent with status code: {status_code2}")
+status_code3 = send_survey("test3.json", "https://sqs.us-east-1.amazonaws.com/471112944418/survey-queue")
+print(f"Survey sent with status code: {status_code3}")
+status_code4 = send_survey("test4.json", "https://sqs.us-east-1.amazonaws.com/471112944418/survey-queue")
+print(f"Survey sent with status code: {status_code4}")
+status_code5 = send_survey("test5.json", "https://sqs.us-east-1.amazonaws.com/471112944418/survey-queue")
+print(f"Survey sent with status code: {status_code5}")
