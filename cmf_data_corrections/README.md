@@ -1,1 +1,15 @@
-
+| File Name                                | Description                                                                                  | Main Method / Approach        |
+|------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------|
+| `finder_1860.ipynb`                      | Specialized anomaly-finding and data search tool for the 1860 CMF dataset.                   | Anomaly detection, validation |
+| `finder_1870.ipynb`                      | Notebook for detecting anomalies and data inconsistencies in the 1870 CMF dataset.           | Anomaly detection, validation |
+| `finder_1880.ipynb`                      | Detects anomalies and inconsistencies in the 1880 CMF general dataset.                       | Anomaly detection, validation |
+| `finder_1880_SS.ipynb`                   | Anomaly-finding and validation tool tailored to 1880 Supplemental Schedules data.            | Anomaly detection, validation |
+| `anomaly_finder.ipynb`                   | Detects anomalies and inconsistencies (e.g., outliers, invalid values) across CMF datasets.  | Anomaly detection, validation |
+| `add_corrections_1860.ipynb`             | Applies manual/programmatic corrections to the 1860 Census of Manufactures dataset.          | Data cleaning, correction     |
+| `add_corrections_1870.ipynb`             | Correction notebook tailored for the 1870 Census of Manufactures dataset.                    | Data cleaning, correction     |
+| `add_corrections_1880_general_schedule.ipynb` | Fixes transcription and variable inconsistencies in the 1880 general schedule (S3).        | Data cleaning, correction     |
+| `add_corrections_1880_SS4.py`            | Correction script for the 1880 Supplemental Schedule 4 dataset.                              | Python script, rule-based fix |
+| `add_corrections_1880_SS8.py`            | Correction script for the 1880 Supplemental Schedule 8 dataset.                              | Python script, rule-based fix |
+| `add_corrections_1880_SS912.py`          | Cleans and corrects Supplemental Schedules 9, 1, and 2 of the 1880 dataset.                  | Python script, rule-based fix |
+| `add_corrections_1880_SS123567.py`       | Handles corrections for multiple 1880 Supplemental Schedules (1, 2, 3, 5, 6, 7).             | Python script, rule-based fix |
+| `add_corrections.ipynb`                  | General-purpose correction notebook, possibly a cross-year template for fixes.               | Data cleaning, correction     |
