@@ -1,4 +1,4 @@
-# Emerald Heatwaves and Concrete Crimes: Greenness-Cooling Synergies in Toronto, 2014-2024
+# Greenness-Cooling Synergies and Criminal Activity: Microgeographic Evidence from Toronto, 2014-2024
 **Zechong (Paul) Wang** \
 University of Chicago, MACSS-Econ '26
 
