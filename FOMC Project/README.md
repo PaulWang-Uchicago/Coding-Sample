@@ -1,4 +1,4 @@
-# Final Project: Exploring FOMC Sentiment and Manufacturing New Orders
+# FOMC Sentiment and U.S. Manufacturing New Orders: Text Based Macroeconomic Forecasting
 **Zechong (Paul) Wang** \
 University of Chicago, MACSS-Econ '26
 
